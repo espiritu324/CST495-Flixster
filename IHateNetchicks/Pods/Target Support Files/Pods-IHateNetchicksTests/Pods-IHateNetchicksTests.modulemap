@@ -1,0 +1,6 @@
+framework module Pods_IHateNetchicksTests {
+  umbrella header "Pods-IHateNetchicksTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
